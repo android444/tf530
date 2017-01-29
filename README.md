@@ -1,5 +1,7 @@
 # tf530
 
-The TerribleFire 530 board.
+##The TerribleFire 530 board.
 
-Comming soon - Early 2017. Check out my YouTube Channel and Twitter for updates.
+I have not verified this board so please assume it does not work. 
+
+Dirty PCB links will follow very soon.
