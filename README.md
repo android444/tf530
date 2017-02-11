@@ -1,5 +1,7 @@
 # tf530
 
+[For more information visit my channel](https://www.youtube.com/c/TerribleFire)
+
 ##License
 
 This project and all the files contained are released under the GNU GPLv2.
