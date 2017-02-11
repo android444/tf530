@@ -11,6 +11,13 @@ I have not verified this board so please assume it does not work.
 Dirty PCB links will follow very soon.
 
 
+## What does the board look like
+
+![Image of Top of PCB](gerbers/tf530_rev2_top.jpg)
+
+![Image of Bottom of PCB](gerbers/tf530_rev2_bottom.jpg)
+
+
 ## The BOM 
 
 
